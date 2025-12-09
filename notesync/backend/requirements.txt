@@ -1,0 +1,8 @@
+fastapi==0.101.1
+uvicorn[standard]==0.23.1
+motor==4.4.0
+pydantic==1.10.12
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+bson==0.5.10
